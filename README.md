@@ -9,7 +9,6 @@
 ![wechat](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E4%B8%93%E5%AE%B6-3b82f6?style=flat-square&logo=wechat)
 
 ![](https://github-readme-stats.vercel.app/api?username=imaxing&show_icons=true&theme=buefy&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaxing&layout=compact&theme=buefy&hide_border=true)
 
 
 
@@ -23,6 +22,6 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![UniApp](https://img.shields.io/badge/Uniapp-191970?style=for-the-badge&logo=UniApp&logoColor=white&color=39495c)
 
-
+---
 
 <img src="https://github-readme-svg.vercel.app/api/v1/svg/road?cartype=normal&p=center" alt="My endless road" />
