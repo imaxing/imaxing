@@ -11,7 +11,24 @@
 ![](https://github-readme-stats.vercel.app/api?username=imaxing&show_icons=true&theme=buefy&hide_border=true)
 
 
-
+## Npm Packages
+[![NPM version](https://img.shields.io/npm/v/create-file-input?color=a1b858&label=快速打开文件选择框)](https://www.npmjs.com/package/create-file-input)
+[![NPM version](https://img.shields.io/npm/v/vue-check-update-plugin?color=a1b858&label=检测vue项目新版本)](https://www.npmjs.com/package/vue-check-update-plugin)
+[![NPM version](https://img.shields.io/npm/v/vue-complier-template?color=a1b858&label=编辑vue代码实时渲染)](https://www.npmjs.com/package/vue-complier-template)
+[![NPM version](https://img.shields.io/npm/v/store-persistence?color=a1b858&label=Vuex数据持久化方案)](https://www.npmjs.com/package/store-persistence)
+[![NPM version](https://img.shields.io/npm/v/use-dynamic-mount?color=a1b858&label=动态挂载任意vue组件)](https://www.npmjs.com/package/use-dynamic-mount)
+[![NPM version](https://img.shields.io/npm/v/smooth-line?color=a1b858&label=canvas写字板)](https://www.npmjs.com/package/smooth-line)
+[![NPM version](https://img.shields.io/npm/v/browser-audio-caster?color=a1b858&label=浏览器播报小工具)](https://www.npmjs.com/package/browser-audio-caster)
+[![NPM version](https://img.shields.io/npm/v/open-nvue?color=a1b858&label=uniapp-nvue小工具)](https://www.npmjs.com/package/open-nvue)
+[![NPM version](https://img.shields.io/npm/v/update-element-ui-theme?color=a1b858&label=函数更新ElementUi主题)](https://www.npmjs.com/package/update-element-ui-theme)
+[![NPM version](https://img.shields.io/npm/v/quick-el-dialog?color=a1b858&label=函数ElDialog)](https://www.npmjs.com/package/quick-el-dialog)
+[![NPM version](https://img.shields.io/npm/v/vue-count-down-clock?color=a1b858&label=倒计时vue组件)](https://www.npmjs.com/package/vue-count-down-clock)    
+[![NPM version](https://img.shields.io/npm/v/vdd?color=a1b858&label=简单的vue全屏拖拽指令)](https://www.npmjs.com/package/vdd)
+[![NPM version](https://img.shields.io/npm/v/uni-broadcast?color=a1b858&label=uniapp播报小工具)](https://www.npmjs.com/package/uni-broadcast)
+[![NPM version](https://img.shields.io/npm/v/find-vue-child?color=a1b858&label=查找vue组件小工具)](https://www.npmjs.com/package/find-vue-child)
+[![NPM version](https://img.shields.io/npm/v/use-mouse-event?color=a1b858&label=快速绑定鼠标事件)](https://www.npmjs.com/package/use-mouse-event)
+[![NPM version](https://img.shields.io/npm/v/incrementer?color=a1b858&label=数字增加函数)](https://www.npmjs.com/package/incrementer)
+[![NPM version](https://img.shields.io/npm/v/actr?color=a1b858&label=检测用户指定时间内是否空闲状态)](https://www.npmjs.com/package/actr)
 
 ### My Skills
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML") 
